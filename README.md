@@ -1,5 +1,7 @@
 # brainrot.nvim
 
+![brainrot](./assets/brainrot.png)
+
 i'm so sorry
 
 ---
