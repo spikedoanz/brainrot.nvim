@@ -8,6 +8,11 @@ i'm so sorry
 
 # installation
 
+install [viu](https://github.com/atanunq/viu/tree/master)
+```
+cargo install viu
+```
+
 move the tumor into your nvim config folder
 
 ```
