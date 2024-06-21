@@ -16,6 +16,8 @@ cargo install viu
 move the tumor into your nvim config folder
 
 ```
+git clone git@github.com:spikedoanz/brainrot.nvim.git
+cd brainrot
 cp -r brainrot ~/.config/nvim/lua/
 ```
 
